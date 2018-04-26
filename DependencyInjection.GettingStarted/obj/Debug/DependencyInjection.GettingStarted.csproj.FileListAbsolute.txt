@@ -1,0 +1,10 @@
+C:\Git\private\DependencyInjection\DependencyInjection.GettingStarted\DependencyInjection.GettingStarted\bin\Debug\DependencyInjection.GettingStarted.exe.config
+C:\Git\private\DependencyInjection\DependencyInjection.GettingStarted\DependencyInjection.GettingStarted\bin\Debug\DependencyInjection.GettingStarted.exe
+C:\Git\private\DependencyInjection\DependencyInjection.GettingStarted\DependencyInjection.GettingStarted\bin\Debug\DependencyInjection.GettingStarted.pdb
+C:\Git\private\DependencyInjection\DependencyInjection.GettingStarted\DependencyInjection.GettingStarted\bin\Debug\Castle.Core.dll
+C:\Git\private\DependencyInjection\DependencyInjection.GettingStarted\DependencyInjection.GettingStarted\bin\Debug\Castle.Windsor.dll
+C:\Git\private\DependencyInjection\DependencyInjection.GettingStarted\DependencyInjection.GettingStarted\bin\Debug\Castle.Windsor.xml
+C:\Git\private\DependencyInjection\DependencyInjection.GettingStarted\DependencyInjection.GettingStarted\obj\Debug\DependencyInjection.GettingStarted.csprojResolveAssemblyReference.cache
+C:\Git\private\DependencyInjection\DependencyInjection.GettingStarted\DependencyInjection.GettingStarted\obj\Debug\DependencyInjection.GettingStarted.csproj.CoreCompileInputs.cache
+C:\Git\private\DependencyInjection\DependencyInjection.GettingStarted\DependencyInjection.GettingStarted\obj\Debug\DependencyInjection.GettingStarted.exe
+C:\Git\private\DependencyInjection\DependencyInjection.GettingStarted\DependencyInjection.GettingStarted\obj\Debug\DependencyInjection.GettingStarted.pdb
